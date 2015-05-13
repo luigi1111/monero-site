@@ -22,6 +22,9 @@
 - slug: i2p
   name: i2p
 
+- slug: i2p
+  name: Internationalisation
+
 - slug: rpc
   name: RPC API
 
@@ -63,3 +66,9 @@
   
 - slug: research
   name: Monero Research Lab
+
+- slug: blockchaindb
+  name: BlockchainDB
+
+- slug: 0mq
+  name: ZeroMQ

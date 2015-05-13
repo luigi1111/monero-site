@@ -15,7 +15,7 @@ The clients below are ideal if you are using Monero for the first time. They are
 
 ---
 
-{:.text-center .client-list}
+{:.text-center .client-list #mymonero}
 [![](//static.getmonero.org/images/clients/mymonero.svg)](https://mymonero.com)
 
 {:.text-center}
@@ -31,7 +31,7 @@ If you are able to spare the bandwidth and disk space required to run a full nod
 
 ---
 
-{:.text-center .client-list}
+{:.text-center .client-list #monerocore}
 [![](//static.getmonero.org/images/logo.svg)](/downloads)  
 You can read our guide on [running a Monero node](/getting-started/running), and the Monero core software can be downloaded from the [downloads page](/downloads).
 
@@ -43,8 +43,27 @@ There are also several third-party clients that interact with the official Moner
 
 ---
 
+{:.text-center .client-list #monerox}
+![](//static.getmonero.org/images/clients/monerox.svg)  
+MoneroX is a GUI for Monero written in .NET and available for Windows, Mac, and Linux. It is written and maintained by Jojatekok.
+
 {:.text-center .client-list}
-[![](//static.getmonero.org/images/clients/lightwallet.svg)](https://forum.monero.cc/20/general-discussion/166/lightwallet-a-lightweight-monero-gui-account-manager)  
+**Current Version:** 1.0.0  
+
+{:.text-center .client-platforms}
+- [![](//static.getmonero.org/images/platforms/windows.svg)  
+  Windows](https://github.com/Jojatekok/MoneroGui.Net/releases/download/v1.0.0/MoneroGui.Net-v1.0.0-Windows-x64.zip)
+- [![](//static.getmonero.org/images/platforms/linux.svg)  
+  Linux](https://github.com/Jojatekok/MoneroGui.Net/releases/download/v1.0.0/MoneroGui.Net-v1.0.0-Linux-x64.tar.gz)
+- [![](//static.getmonero.org/images/platforms/github.svg)  
+  Source Code](https://github.com/Jojatekok/MoneroGui.Net)
+- [![](//static.getmonero.org/images/platforms/forum.svg)  
+  Forum Thread](https://bitcointalk.org/index.php?topic=683365.00)
+
+---
+
+{:.text-center .client-list #lightwallet}
+[![](//static.getmonero.org/images/clients/lightwallet.svg)](https://forum.getmonero.org/20/general-discussion/166/lightwallet-a-lightweight-monero-gui-account-manager)  
 lightWallet is a simple and slim client written in Python, and should run on most operating systems. It is written and maintained by jwinterm.
 
 {:.text-center .client-list}
@@ -56,23 +75,6 @@ lightWallet is a simple and slim client written in Python, and should run on mos
 - [![](//static.getmonero.org/images/platforms/github.svg)  
   Source Code](https://github.com/jwinterm/lightWallet)
 - [![](//static.getmonero.org/images/platforms/forum.svg)  
-  Forum Thread](https://forum.monero.cc/20/general-discussion/166/lightwallet-a-lightweight-monero-gui-account-manager)
-
----
-
-{:.text-center .client-list}
-![](//static.getmonero.org/images/clients/monerox.svg)]  
-MoneroX is a GUI for Monero written in .NET and available for Windows, and soon for Mac and Linux. It is written and maintained by Jojatekok.
-
-{:.text-center .client-list}
-**Current Version:** 0.41.1  
-
-{:.text-center .client-platforms}
-- [![](//static.getmonero.org/images/platforms/windows.svg)  
-  Windows](https://github.com/Jojatekok/MoneroGui.Net/releases/download/v0.41.1/MoneroGui.Net-v0.41.1-x64.zip)
-- [![](//static.getmonero.org/images/platforms/github.svg)  
-  Source Code](https://github.com/Jojatekok/MoneroGui.Net)
-- [![](//static.getmonero.org/images/platforms/forum.svg)  
-  Forum Thread](https://bitcointalk.org/index.php?topic=683365.00)
+  Forum Thread](https://forum.getmonero.org/20/general-discussion/166/lightwallet-a-lightweight-monero-gui-account-manager)
 
 ---

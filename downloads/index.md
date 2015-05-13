@@ -15,6 +15,10 @@ Monero Core consists of several applications, including bitmonerod (the daemon u
 
 If you are using Monero Core for the first time you may want to download a @blockchain bootstrap to get you started. A link to download the @blockchain bootstrap is included in the listings below.
 
+- Place Windows 64-bit blockchain in %AppData%/bitmonero
+- Place OS X 64-bit blockchain in ~/.bitmonero
+- Place Linux 64-bit blockchain in ~/.bitmonero
+
 Note: the SHA hashes are listed by the downloads for convenience, but a GPG-signed list of the hashes is at [getmonero.org/downloads/hashes.txt](https://getmonero.org/downloads/hashes.txt) and should be treated as canonical, with the signature checked against the appropriate GPG key in the source code (in /utils/gpg_keys).
 
 <div class="row">
@@ -25,7 +29,7 @@ Note: the SHA hashes are listed by the downloads for convenience, but a GPG-sign
 
 <div class="col-lg-6" style="padding-bottom: 5px;">
 
-<h4>
+<h4 id="{{ data_downloads.platform | slugify }}">
  <a href="{{ data_downloads.url }}">
   <img src="//static.getmonero.org/images/platforms/{{ data_downloads.icon }}" style="height: 30px;"> {{ data_downloads.platform }}
  </a>
@@ -42,7 +46,7 @@ Note: the SHA hashes are listed by the downloads for convenience, but a GPG-sign
 
 <div class="col-lg-6" style="padding-bottom: 5px;">
 
-<h4>
+<h4 id="{{ data_downloads.platform | slugify }}">
   <img src="//static.getmonero.org/images/platforms/{{ data_downloads.icon }}" style="height: 30px;"> {{ data_downloads.platform }}
 </h4>
 
@@ -56,7 +60,7 @@ Note: the SHA hashes are listed by the downloads for convenience, but a GPG-sign
 
 <div class="col-lg-6" style="padding-bottom: 5px;">
 
-<h4>
+<h4 id="{{ data_downloads.platform | slugify }}">
  <a href="//downloads.getmonero.org/{{ data_downloads.url }}">
   <img src="//static.getmonero.org/images/platforms/{{ data_downloads.icon }}" style="height: 30px;"> {{ data_downloads.platform }}
  </a>
@@ -79,4 +83,4 @@ Note: the SHA hashes are listed by the downloads for convenience, but a GPG-sign
 
 - For @blockchain bootstraps please use the link for your current platform from the list above.
 - For Monero Research Lab publications please visit the [Monero Research Lab section](/research-lab) of this site.
-- High resolution and vector copies of the Monero logo [can be downloaded at this link](/downloads/resources/branding.zip).
+- High resolution and vector copies of the Monero logo [can be downloaded at this link](https://downloads.getmonero.org/resources/branding.zip).

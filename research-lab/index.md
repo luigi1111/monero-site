@@ -10,3 +10,5 @@ attribution: ""
 ---
 
 ### Work in Progress
+
+For current Monero Research Lab publications please visit: [https://lab.getmonero.org/](https://lab.getmonero.org/)

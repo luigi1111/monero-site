@@ -1,6 +1,6 @@
 - level: 8
   name: ArticMine
-  amount: 5206.80
+  amount: 7206.80
   quote: Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
   quote-author: Article 19, The Universal Declaration of Human Rights
   history: [8th Dan on 2015-01-14, 7th Dan on 2014-12-02, 6th Dan on 2014-08-24, 5th Dan on 2014-08-01, 4th Dan on 2014-07-21]
@@ -21,8 +21,8 @@
 
 - level: 7
   name: Lloydimiller4
-  amount: 2500
-  history: [7th Dan on 2015-02-25, 6th Dan on 2015-02-16, 5th Dan on 2014-09-20, 4th Dan on 2014-08-26]
+  amount: 3777
+  history: [7th Dan on 2015-02-25 and 2015-03-12, 6th Dan on 2015-02-16, 5th Dan on 2014-09-20, 4th Dan on 2014-08-26]
 
 - level: 7
   name: pa
@@ -48,8 +48,13 @@
 
 - level: 6
   name: antw081
-  amount: 1000
+  amount: 1600
   history: [6th Dan on 2015-02-23, 5th Dan on 2015-02-10, 4th Dan on 2014-11-25, 3rd Dan on 2014-09-05]
+  
+- level: 6
+  name: ajiekceu4
+  amount: 1000
+  history: [6th Dan on 2015-05-11]
 
 - level: 5
   name: eizh
@@ -86,6 +91,16 @@
   amount: 666
   history: [5th Dan on 2015-2-25]
 
+- level: 5
+  name: saddambitcoin
+  amount: 500
+  history: [5th Dan on 2015-02-28, 4th Dan on 2014-08-18]
+
+- level: 5
+  name: Quicken
+  amount: 500
+  history: [5th Dan on 2015-03-27]
+
 - level: 4
   name: kbm
   amount: 200
@@ -100,11 +115,6 @@
   name: fluffypony
   amount: 245
   history: [4th Dan on 2014-08-01]
-
-- level: 4
-  name: saddambitcoin
-  amount: 250
-  history: [4th Dan on 2014-08-18]
 
 - level: 4
   name: exciter0
@@ -123,14 +133,29 @@
 
 - level: 4
   name: GreekBitcoin
-  amount: 233
+  amount: 300
   history: [4th Dan on 2015-01-26, 3rd Dan on 2014-05-11]
 
 - level: 4
   name: RaskaRuby
   amount: 200
-  history: [3rd Dan on 2014-10-27, 2nd Dan on 2014-09-18, 1st Dan on 2014-07-27]
+  history: [4th Dan 2015-01-01, 3rd Dan on 2014-10-27, 2nd Dan on 2014-09-18, 1st Dan on 2014-07-27]
 
+- level: 4
+  name: djjacket
+  amount: 200
+  history: [4th Dan on 2015-03-27]
+
+- level: 4
+  name: iourzzz
+  amount: 311
+  history: [4th Dan on 2015-04-08, 3rd Dan on 2015-03-15, 2nd Dan on 2014-09-14, 1st Dan on 2014-08-01]
+
+- level: 4
+  name: bassica
+  amount: 200
+  history: [4th Dan on 2015-05-11, 3rd Dan on 2014-11-25, 2nd Dan on 2014-09-10]
+  
 - level: 3
   name: Quanttek
   amount: 100
@@ -152,11 +177,6 @@
   history: [3rd Dan on 2014-09-20]
 
 - level: 3
-  name: bassica
-  amount: 100
-  history: [3rd Dan on 2014-11-25, 2nd Dan on 2014-09-10]
-
-- level: 3
   name: Monero House ([CryptoKingdom](https://bitcointalk.org/index.php?topic=819073.msg9156194#msg9156194))
   amount: 150
   history: [3rd Dan on 2014-11-06]
@@ -170,7 +190,12 @@
   name: explorer
   amount: 104
   history: [3rd Dan on 2015-02-05]
-
+  
+- level: 3
+  name: nioc
+  amount: 100
+  history: [3rd Dan on 2015-04-18, 2nd Dan on 2015-01-27, 1st Dan on 2014-09-17]
+  
 - level: 2
   name: superresistant
   amount: 50
@@ -192,18 +217,8 @@
   history: [2nd Dan on 2014-08-09]
 
 - level: 2
-  name: iourzzz
-  amount: 50
-  history: [2nd Dan on 2014-09-14, 1st Dan on 2014-08-01]
-
-- level: 2
-  name: nioc
-  amount: 50
-  history: [2nd Dan on 2015-01-27, 1st Dan on 2014-09-17]
-
-- level: 2
   name: Arux
-  amount: 50.1
+  amount: 70.1
   history: [2nd Dan on 2015-01-31, 1st Dan on 2014-07-29]
 
 - level: 2
@@ -211,6 +226,26 @@
   amount: 50.1
   history: [2nd Dan on 2015-02-23]
 
+- level: 2
+  name: palexander
+  amount: 50
+  history: [2nd Dan on 2015-04-03]
+ 
+- level: 2
+  name: GingerAle
+  amount: 50
+  history: [2nd Dan on 2015-04-22]
+
+- level: 2
+  name: ibuyltc
+  amount: 50
+  history: [2nd Dan on 2015-05-11, 1st Dan on 2014-08-20]
+
+- level: 2
+  name: QuantumQrack
+  amount: 50
+  history: [2nd Dan on 2015-05-11]
+      
 - level: 1
   name: David Latapie
   amount: 20
@@ -267,11 +302,6 @@
   history: [1st Dan on 2015-01-24, 1st Kyu on 2014-07-24]
 
 - level: 1
-  name: ibuyltc
-  amount: 20
-  history: [1st Dan on 2014-08-20]
-
-- level: 1
   name: whap
   amount: 20.44
   history: [1st Dan on 2014-09-17]
@@ -301,6 +331,11 @@
   amount: 40.015
   history: [1st Dan on 2015-02-09]
 
+- level: 1
+  name: kazuki49
+  amount: 20
+  history: [1st Dan on 2015-02-28, 1st Kyu on 2015-02-07]
+
 - level: -1
   name: nakaone
   amount: 10
@@ -310,11 +345,6 @@
   name: carpetbagger
   amount: 10
   history: [1st Kyu on 2014-09-21]
-
-- level: -1
-  name: kazuki49
-  amount: 10
-  history: [1st Kyu on 2015-02-07]
 
 - level: -2
   name: celestio
